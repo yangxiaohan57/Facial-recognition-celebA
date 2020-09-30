@@ -1,2 +1,2 @@
-# Facial-recognition-celebA
+# facial-recognition-celebA
 Facial recognition using celebrity photos on AWS
