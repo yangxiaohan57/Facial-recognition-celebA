@@ -4,4 +4,5 @@
 *.csv
 .ipynb_checkpoints/
 public
+intermediate_files/*
 
